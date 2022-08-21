@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>y</version>
+    <version>1.1-SNAPSHOT</version>
     <name>sfg-pet-clinic</name>
     <description>SFG Pet Clinic Project</description>
     <properties>
@@ -59,6 +59,6 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:markom132/sfg-pet-clinic.git</developerConnection>
-      <tag>y</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
