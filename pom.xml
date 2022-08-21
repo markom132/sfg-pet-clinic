@@ -56,6 +56,5 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:markom132/sfg-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
   </scm>
 </project>
