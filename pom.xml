@@ -4,7 +4,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <packaging>pom</packaging>
     <modules>
@@ -37,7 +37,6 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-release-plugin</artifactId>
-                <version>2.3.2</version>
                 <configuration>
                     <goals>install</goals>
                 </configuration>
@@ -46,5 +45,6 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:markom132/sfg-pet-clinic.git</developerConnection>
+    <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 </project>
